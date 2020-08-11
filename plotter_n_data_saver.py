@@ -1,8 +1,8 @@
 #-----specifing libraries
 import serial   # import Serial Library
 import time     # import time library
-#import numpy    # Import numpy
-#import math     # importa math library
+import numpy    # Import numpy
+import math     # importa math library
 import matplotlib.pyplot as plt #import matplotlib library
 from drawnow import *
 import os       #in order to verify if a file is empty
